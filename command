@@ -1,1 +1,1 @@
-/summon Zombie ~ ~1 ~ {PersistenceRequired:1}
+summon Zombie ~ ~1 ~ {PersistenceRequired:1}
