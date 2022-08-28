@@ -1,1 +1,4 @@
-summon Zombie ~ ~1 ~ {PersistenceRequired:1}
+shock
+shock
+shock
+shock
