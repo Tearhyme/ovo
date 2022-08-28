@@ -1,4 +1,1 @@
-shock
-shock
-shock
-shock
+summon Skeleton ~ ~1 ~ {Invulnerable:1,PersistenceRequired:1,Silent:1,NoAI:1,CanPickUpLoot:1b,Equipment:[{id:bow,tag:{ench:[{id:34,lvl:3},{id:48,lvl:5},{id:49,lvl:2},{id:50,lvl:1},{id:51,lvl:1}]}},{id:diamond_boots,tag:{ench:[{id:0,lvl:4},{id:7,lvl:3}]}},{id:diamond_leggings,tag:{ench:[{id:0,lvl:4},{id:7,lvl:3}]}},{id:diamond_chestplate,tag:{ench:[{id:0,lvl:4},{id:7,lvl:3}]}},{id:diamond_helmet,tag:{ench:[{id:0,lvl:4},{id:7,lvl:3}]}}],ActiveEffects:[{Id:1,Amplifier:1,Duration:999999,ShowParticles:0b},{Id:5,Amplifier:1,Duration:999999,ShowParticles:0b},{Id:7,Amplifier:1,Duration:999999,ShowParticles:0b},{Id:12,Amplifier:0,Duration:999999,ShowParticles:0b},{Id:21,Amplifier:0,Duration:999999,ShowParticles:0b},{Id:22,Amplifier:0,Duration:999999,ShowParticles:0b}],Riding:{id:Bat}}
